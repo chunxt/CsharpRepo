@@ -1,0 +1,16 @@
+D:\csharpCode\NetJson\bin\Debug\net5.0\NetJson.exe
+D:\csharpCode\NetJson\bin\Debug\net5.0\NetJson.deps.json
+D:\csharpCode\NetJson\bin\Debug\net5.0\NetJson.runtimeconfig.json
+D:\csharpCode\NetJson\bin\Debug\net5.0\NetJson.runtimeconfig.dev.json
+D:\csharpCode\NetJson\bin\Debug\net5.0\NetJson.dll
+D:\csharpCode\NetJson\bin\Debug\net5.0\ref\NetJson.dll
+D:\csharpCode\NetJson\bin\Debug\net5.0\NetJson.pdb
+D:\csharpCode\NetJson\obj\Debug\net5.0\NetJson.csproj.AssemblyReference.cache
+D:\csharpCode\NetJson\obj\Debug\net5.0\NetJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpCode\NetJson\obj\Debug\net5.0\NetJson.AssemblyInfoInputs.cache
+D:\csharpCode\NetJson\obj\Debug\net5.0\NetJson.AssemblyInfo.cs
+D:\csharpCode\NetJson\obj\Debug\net5.0\NetJson.csproj.CoreCompileInputs.cache
+D:\csharpCode\NetJson\obj\Debug\net5.0\NetJson.dll
+D:\csharpCode\NetJson\obj\Debug\net5.0\ref\NetJson.dll
+D:\csharpCode\NetJson\obj\Debug\net5.0\NetJson.pdb
+D:\csharpCode\NetJson\obj\Debug\net5.0\NetJson.genruntimeconfig.cache
