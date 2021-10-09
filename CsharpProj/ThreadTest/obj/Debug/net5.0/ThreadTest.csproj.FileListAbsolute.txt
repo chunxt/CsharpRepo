@@ -1,0 +1,16 @@
+D:\csharpCode\ThreadTest\bin\Debug\net5.0\ThreadTest.exe
+D:\csharpCode\ThreadTest\bin\Debug\net5.0\ThreadTest.deps.json
+D:\csharpCode\ThreadTest\bin\Debug\net5.0\ThreadTest.runtimeconfig.json
+D:\csharpCode\ThreadTest\bin\Debug\net5.0\ThreadTest.runtimeconfig.dev.json
+D:\csharpCode\ThreadTest\bin\Debug\net5.0\ThreadTest.dll
+D:\csharpCode\ThreadTest\bin\Debug\net5.0\ref\ThreadTest.dll
+D:\csharpCode\ThreadTest\bin\Debug\net5.0\ThreadTest.pdb
+D:\csharpCode\ThreadTest\obj\Debug\net5.0\ThreadTest.csproj.AssemblyReference.cache
+D:\csharpCode\ThreadTest\obj\Debug\net5.0\ThreadTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpCode\ThreadTest\obj\Debug\net5.0\ThreadTest.AssemblyInfoInputs.cache
+D:\csharpCode\ThreadTest\obj\Debug\net5.0\ThreadTest.AssemblyInfo.cs
+D:\csharpCode\ThreadTest\obj\Debug\net5.0\ThreadTest.csproj.CoreCompileInputs.cache
+D:\csharpCode\ThreadTest\obj\Debug\net5.0\ThreadTest.dll
+D:\csharpCode\ThreadTest\obj\Debug\net5.0\ref\ThreadTest.dll
+D:\csharpCode\ThreadTest\obj\Debug\net5.0\ThreadTest.pdb
+D:\csharpCode\ThreadTest\obj\Debug\net5.0\ThreadTest.genruntimeconfig.cache
