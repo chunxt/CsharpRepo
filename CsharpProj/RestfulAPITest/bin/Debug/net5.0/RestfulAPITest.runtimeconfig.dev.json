@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TCX\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TCX\\.nuget\\packages",
+      "D:\\softawareSet\\vs2019Set\\sdk_install\\NuGetPackages"
+    ]
+  }
+}
